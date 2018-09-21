@@ -1,10 +1,13 @@
 _repo: Drowsy_53802
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: MacDonall, Angus
     gutenberg_agent_id: '40778'
     url: http://www.gutenberg.org/2009/agents/40778
+covers:
+- cover_type: archival
+  image_path: 53802-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitchell, John Ames
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2484
     wikipedia: http://en.wikipedia.org/wiki/John_Ames_Mitchell
 description: Illustrated by Angus MacDonall and the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53802#Drowsy
 gutenberg_issued: '2016-12-25'
 gutenberg_type: Text
 identifiers:
